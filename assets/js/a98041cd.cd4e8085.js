@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[432],{5786:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/learning/blog/tags/hola","allTagsPath":"/learning/blog/tags","count":1}')}}]);

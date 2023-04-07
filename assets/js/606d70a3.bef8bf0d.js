@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkribir_website=self.webpackChunkribir_website||[]).push([[371],{1722:e=>{e.exports=JSON.parse('{"permalink":"/learning/blog/tags/release","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
